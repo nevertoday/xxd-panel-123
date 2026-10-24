@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 123｜Red–Blue Angular Pencil: reduces a photo to its key subject and redraws it as an expressive coloured-pencil illustration in only red and blue, with angular, sharply turning lines, hatching, overlapping strokes, scribbled loops and unsteady outlines instead of shaded volume; red carries the weight and small colour blocks, blue draws outlines, shadow and structure, on visible paper grain with a small subject in very large whitespace and a few words in any language. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-123 or asks for red and blue duotone coloured pencil, angular expressive line drawing from a photo.",
+  "short_description": "红蓝角线彩铅志：用红蓝两色彩铅和带棱角的表现性线条，把照片画成留白很大的小插画",
+  "zh-CN": {
+    "name": "红蓝角线彩铅志",
+    "tagline": "用红蓝两支彩铅和带棱角的线条，把照片主体重新画成一张小而有张力的手绘。",
+    "look": "照片的主体被概括成红蓝两色的彩铅画：线条有明确的折角和方向，夹着排线、叠线、涂擦和一小团一小团缠绕的曲线，轮廓不追求稳定，也不做完整的明暗体积。红色承担主要分量和局部色块，蓝色画轮廓、阴影和结构。主体画得小，可以偏心或被裁掉一部分，四周是大片留白，纸面颗粒和彩铅摩擦痕清楚可见。只配几个字词或短句，语种不限。",
+    "traits": [
+      "红蓝双色彩铅",
+      "棱角表现线",
+      "排线与涂擦",
+      "纸面摩擦感",
+      "小主体大留白"
+    ],
+    "good": [
+      "姿态鲜明的人或动物：跳舞的人、回头的狗、蹲在台阶上的人",
+      "轮廓有棱角、结构清楚的物件：一把椅子、一辆自行车、一盏台灯",
+      "背景乱、主体小，但有一个动作或形状值得留下的照片"
+    ],
+    "poor": [
+      "颜色丰富本身就是重点的照片：彩虹、花市、彩色集市，最后只剩红蓝两色",
+      "需要写实明暗或精确还原的图：证件照、产品图、建筑效果图",
+      "多人复杂场景，或想要画满、颜色多、卡通感的画面"
+    ]
+  },
+  "en": {
+    "name": "Red–Blue Angular Pencil",
+    "tagline": "Redraws your photo's subject in red and blue coloured pencil with angular, tense lines and lots of empty space.",
+    "look": "The subject is reduced to a coloured-pencil drawing in just red and blue: lines with clear corners and direction, mixed with hatching, overlapping strokes, rubbing and small scribbled loops, with outlines left a little unsteady and no full shaded volume. Red carries the main weight and a few colour blocks; blue handles outlines, shadows and structure. The subject is drawn small, off-centre or cropped, inside wide empty space, with paper grain and pencil friction clearly visible. Only a few words or a short phrase are added, in any language.",
+    "traits": [
+      "Red and blue pencil",
+      "Angular expressive line",
+      "Hatching and scribble",
+      "Paper friction",
+      "Small subject, big whitespace"
+    ],
+    "good": [
+      "People or animals with a strong pose: someone dancing, a dog looking back, a person crouched on steps",
+      "Objects with angular, clear structure: a chair, a bicycle, a desk lamp",
+      "Photos with a messy background and a small subject, but one gesture or shape worth keeping"
+    ],
+    "poor": [
+      "Photos whose appeal is lots of colour, such as rainbows, flower stalls or busy markets, since only red and blue remain",
+      "Images that need realistic shading or exact detail: ID photos, product shots, architectural renders",
+      "Crowded multi-person scenes, or requests for a full, colourful or cartoon-like picture"
+    ]
+  },
+  "ja": {
+    "name": "赤青の角線色鉛筆",
+    "tagline": "赤と青の色鉛筆と角ばった線で、写真の主役を小さく張りのある手描きに描き直します。",
+    "look": "写真の主役を赤と青だけの色鉛筆画にまとめます。線ははっきり折れ曲がって向きがあり、ハッチング、重ね線、こすり、小さく絡まる曲線が混ざります。輪郭はあえて安定させず、陰影で立体を作り込むこともしません。赤が主な重みと部分的な色面を、青が輪郭、影、構造を受け持ちます。主役は小さく、中心をずらしたり一部を切ったりし、周りは大きな余白。紙の粒子と色鉛筆のこすれ跡がよく見えます。添える文字は単語か短い一言だけで、言語は自由です。",
+    "traits": [
+      "赤青二色の色鉛筆",
+      "角ばった表現線",
+      "ハッチングとこすり",
+      "紙の摩擦感",
+      "小さな主役と大きな余白"
+    ],
+    "good": [
+      "ポーズがはっきりした人や動物：踊る人、振り返る犬、階段にしゃがむ人",
+      "角があり構造がわかりやすい物：椅子、自転車、デスクライト",
+      "背景が雑然として主役が小さくても、残したい動きや形が一つある写真"
+    ],
+    "poor": [
+      "色の多さが魅力の写真：虹、花屋、にぎやかな市場（赤と青だけになります）",
+      "写実的な陰影や正確な再現が必要な画像：証明写真、商品写真、建築パース",
+      "人の多い複雑な場面や、画面いっぱい、多色、アニメ調の絵を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "빨강·파랑 각진 색연필",
+    "tagline": "빨강과 파랑 색연필, 각진 선으로 사진의 주인공을 작고 긴장감 있는 손그림으로 다시 그립니다.",
+    "look": "사진의 주인공을 빨강과 파랑 두 색만 쓴 색연필 그림으로 정리합니다. 선은 꺾이는 각과 방향이 분명하고, 해칭, 겹친 선, 문지른 자국, 작게 엉킨 곡선이 섞입니다. 윤곽은 일부러 흔들리게 두고 명암으로 입체를 다 만들지 않습니다. 빨강은 주된 무게와 부분 색면을, 파랑은 윤곽과 그림자, 구조를 맡습니다. 주인공은 작게, 중심에서 벗어나거나 일부가 잘리며 주변은 넓은 여백이고, 종이 결과 색연필 마찰 자국이 뚜렷이 보입니다. 글은 단어나 짧은 문장 몇 개뿐이며 언어는 자유입니다.",
+    "traits": [
+      "빨강·파랑 색연필",
+      "각진 표현 선",
+      "해칭과 문지름",
+      "종이 마찰감",
+      "작은 주인공, 넓은 여백"
+    ],
+    "good": [
+      "자세가 뚜렷한 사람이나 동물: 춤추는 사람, 뒤돌아보는 개, 계단에 쪼그려 앉은 사람",
+      "모서리가 있고 구조가 분명한 물건: 의자, 자전거, 탁상 스탠드",
+      "배경이 어수선하고 주인공이 작아도 남기고 싶은 동작이나 형태가 하나 있는 사진"
+    ],
+    "poor": [
+      "다채로운 색이 핵심인 사진: 무지개, 꽃가게, 북적이는 시장(빨강과 파랑만 남습니다)",
+      "사실적인 명암이나 정확한 재현이 필요한 이미지: 증명사진, 제품 사진, 건축 투시도",
+      "사람이 많은 복잡한 장면, 또는 꽉 찬 화면이나 여러 색, 만화풍을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "قلم أحمر وأزرق بخطوط زاوية",
+    "tagline": "يعيد رسم العنصر الرئيسي في صورتك بقلمين ملوّنين أحمر وأزرق وخطوط حادة الزوايا مع فراغ واسع.",
+    "look": "يُختزل العنصر الرئيسي إلى رسم بالأقلام الملوّنة بالأحمر والأزرق فقط: خطوط بزوايا واتجاهات واضحة، تتخللها تظليلات متوازية وخطوط متراكبة وفرك وحلقات صغيرة متشابكة، مع خطوط خارجية غير مستقرة عمداً ومن دون تجسيم كامل بالظل والنور. يحمل الأحمر الثقل الأساسي وبعض المساحات اللونية، ويرسم الأزرق الحدود والظلال والبنية. يُرسم العنصر صغيراً، مزاحاً عن المركز أو مقتطعاً، وسط فراغ واسع، مع ظهور واضح لحبيبات الورق وأثر احتكاك القلم. تُضاف كلمات قليلة أو عبارة قصيرة بأي لغة.",
+    "traits": [
+      "قلم أحمر وأزرق",
+      "خط تعبيري بزوايا",
+      "تظليل وخربشة",
+      "احتكاك الورق",
+      "عنصر صغير وفراغ كبير"
+    ],
+    "good": [
+      "أشخاص أو حيوانات بوضعيات قوية: شخص يرقص، كلب يلتفت، شخص جالس القرفصاء على درج",
+      "أشياء ذات بنية واضحة وزوايا: كرسي، دراجة، مصباح مكتب",
+      "صور بخلفية فوضوية وعنصر صغير، لكن فيها حركة أو شكل يستحق الإبقاء عليه"
+    ],
+    "poor": [
+      "صور جاذبيتها في كثرة الألوان، كقوس قزح أو محل زهور أو سوق مزدحم، لأن النتيجة أحمر وأزرق فقط",
+      "صور تحتاج إلى ظلال واقعية أو تفاصيل دقيقة: صور الهوية، صور المنتجات، المناظير المعمارية",
+      "مشاهد مزدحمة بأشخاص كثيرين، أو طلب صورة ممتلئة ومتعددة الألوان أو كرتونية"
+    ]
+  }
+}
